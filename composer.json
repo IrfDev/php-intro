@@ -1,0 +1,15 @@
+{
+    "name": "irfdev/php-intro-tut",
+    "description": "this is a description for my new app",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Irving Suárez",
+            "email": "irving.dev@icloud.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/web-server-bundle": "^4.4"
+    }
+}
